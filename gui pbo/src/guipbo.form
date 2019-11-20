@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="UP" alignment="0" min="-2" pref="65" max="-2" attributes="0"/>
+                  <Component id="IP" alignment="1" max="32767" attributes="0"/>
+                  <Component id="UO" alignment="1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="NAMA" max="32767" attributes="0"/>
+                  <Component id="KELAS" max="32767" attributes="0"/>
+                  <Component id="ALAMAT" pref="287" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="148" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="190" max="-2" attributes="0"/>
+              <Component id="OKE" min="-2" pref="103" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="188" max="-2" attributes="0"/>
+                      <Component id="FORMULIR" min="-2" pref="144" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="FSDFSD" alignment="0" min="-2" pref="65" max="-2" attributes="0"/>
+                          <Component id="IHIHIHIHI" alignment="1" max="32767" attributes="0"/>
+                          <Component id="SDFSD" alignment="1" min="-2" pref="65" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="Nama1" alignment="0" max="32767" attributes="0"/>
+                          <Component id="Kelas1" alignment="0" max="32767" attributes="0"/>
+                          <Component id="Alamat1" alignment="0" min="-2" pref="287" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="140" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+              <Component id="FORMULIR" min="-2" pref="38" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="UP" alignment="3" max="32767" attributes="0"/>
+                  <Component id="NAMA" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="IP" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                  <Component id="KELAS" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="UO" alignment="3" min="-2" pref="31" max="-2" attributes="0"/>
+                  <Component id="ALAMAT" alignment="3" min="-2" pref="31" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+              <Component id="OKE" min="-2" pref="40" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="FSDFSD" alignment="3" max="32767" attributes="0"/>
+                  <Component id="Nama1" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="IHIHIHIHI" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                  <Component id="Kelas1" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="SDFSD" alignment="3" min="-2" pref="31" max="-2" attributes="0"/>
+                  <Component id="Alamat1" alignment="3" min="-2" pref="31" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="79" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="UP">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="NAMA"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="IP">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="KELAS"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="UO">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ALAMAT"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="FORMULIR">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="               FORMULIR"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="NAMA">
+    </Component>
+    <Component class="javax.swing.JTextField" name="KELAS">
+    </Component>
+    <Component class="javax.swing.JTextField" name="ALAMAT">
+    </Component>
+    <Component class="javax.swing.JButton" name="OKE">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="OKE"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="OKEActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="IHIHIHIHI">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="KELAS"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="FSDFSD">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="NAMA"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Kelas1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Nama1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="SDFSD">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ALAMAT"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Alamat1">
+    </Component>
+  </SubComponents>
+</Form>
